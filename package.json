@@ -1,7 +1,7 @@
 {
   "name": "piggy-tools",
-  "version": "0.0.0",
-  "main": "lib/piggy-tools.js",
+  "version": "1.0.0",
+  "main": "lib/main.js",
   "description": "Tools for Piggy Applications",
   "homepage": "http://vipfront.github.io/",
   "bugs": "https://github.com/vipfront/piggy-tools/issues",
@@ -27,7 +27,19 @@
     "time-grunt": "^0.3.1",
     "jshint-stylish": "^0.2.0"
   },
+  "bin": {
+    "piggy-init": "bin/piggy-init.js",
+    "piggy-build": "bin/piggy-build.js"
+  },
   "scripts": {
     "test": "grunt"
+  },
+  "dependencies": {
+    "commander": "^2.2.0",
+    "chalk": "^0.4.0",
+    "progress": "^1.1.6",
+    "debug": "^1.0.2",
+    "yeoman-generator": "^0.17.0",
+    "glob": "^4.0.2"
   }
 }
