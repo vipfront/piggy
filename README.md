@@ -1,20 +1,27 @@
-# piggy-tools [![Build Status](https://secure.travis-ci.org/vipfront/piggy-tools.png?branch=master)](http://travis-ci.org/vipfront/piggy-tools)
+# piggy-tools
 
 Tools for Piggy Applications
 
 ## Getting Started
-Install the module with: `npm install piggy-tools`
+Install the module with: `npm install piggy-tools -g`
 
-```javascript
-var piggy-tools = require('piggy-tools');
-piggy-tools.awesome(); // "awesome"
+Then, you can initial an app using commands below:
+
+```bash
+$ piggy-init
 ```
 
-## Documentation
-_(Coming soon)_
+And, you can initial a new page as below:
 
-## Examples
-_(Coming soon)_
+```bash
+$ piggy-init newpage
+```
+
+Finally, you can build your app as follow, this will build your app with Grunt
+
+```bash
+$ piggy-build
+```
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
