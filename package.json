@@ -40,6 +40,11 @@
     "progress": "^1.1.6",
     "debug": "^1.0.2",
     "yeoman-generator": "^0.17.0",
-    "glob": "^4.0.2"
+    "glob": "^4.0.2",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "bower": "^1.3.5",
+    "yo": "^1.2.0",
+    "generator-piggy": "^1.0.0"
   }
 }
