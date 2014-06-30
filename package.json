@@ -15,9 +15,6 @@
     "url": "https://github.com/vipfront/piggy-tools"
   },
   "license": "MIT",
-  "files": [
-    "lib"
-  ],
   "keywords": [],
   "devDependencies": {
     "grunt-contrib-jshint": "^0.10.0",
