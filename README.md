@@ -8,13 +8,19 @@ Install the module with: `npm install piggy-tools -g`
 Then, you can initial an app using commands below:
 
 ```bash
-$ piggy-init
+$ piggy
+```
+
+Then, you can initial a new module
+
+```bash
+$ piggy module
 ```
 
 And, you can initial a new page as below:
 
 ```bash
-$ piggy-init newpage
+$ piggy page
 ```
 
 Finally, you can build your app as follow, this will build your app with Grunt
