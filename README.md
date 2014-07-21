@@ -3,7 +3,7 @@
 Tools for Piggy Applications
 
 ## Getting Started
-Install the module with: `npm install piggy-tools -g`
+Install the module with: `npm install piggy -g`
 
 Then, you can initial an app using commands below:
 
@@ -26,7 +26,7 @@ $ piggy page
 Finally, you can build your app as follow, this will build your app with Grunt
 
 ```bash
-$ piggy-build
+$ piggy build
 ```
 
 ## Contributing

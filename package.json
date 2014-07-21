@@ -1,5 +1,5 @@
 {
-  "name": "piggy-tools",
+  "name": "piggy",
   "version": "1.0.0",
   "main": "lib/main.js",
   "description": "Tools for Piggy Applications",
@@ -25,8 +25,7 @@
     "jshint-stylish": "^0.2.0"
   },
   "bin": {
-    "piggy": "bin/piggy.js",
-    "piggy-build": "bin/piggy-build.js"
+    "piggy": "bin/piggy.js"
   },
   "scripts": {
     "test": "grunt"
