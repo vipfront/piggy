@@ -1,4 +1,4 @@
-# piggy-tools
+# piggy
 
 Tools for Piggy Applications
 
