@@ -1,39 +1,39 @@
 # piggy
 
-Tools for Piggy Applications
+Piggy应用程序CLI工具，底层使用[Yeoman](http://yeoman.io)、[Grunt](http://gruntjs.com)及[generator-piggy](https://github.com/vipfront/generator-piggy)
 
-## Getting Started
-Install the module with: `npm install piggy -g`
+## 从这里开始
+执行`npm install piggy -g`安装该工具
 
-Then, you can initial an app using commands below:
+然后，你可以使用下面的命令初始化一个应用程序:
 
 ```bash
 $ piggy
 ```
 
-Then, you can initial a new module
+使用下面的命令初始化一个模块
 
 ```bash
 $ piggy module
 ```
 
-And, you can initial a new page as below:
+也可以使用下面的命令初始化一个也没:
 
 ```bash
 $ piggy page
 ```
 
-Finally, you can build your app as follow, this will build your app with Grunt
+最后，执行下面的命令来构建你的应用，我们的后台使用[Grunt](http://gruntjs.com)
 
 ```bash
 $ piggy build
 ```
 
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+## 贡献代码
+欢迎Fork我们并通过[Pull Requests](https://github.com/vipfront/piggy/pulls)来提交改进
 
-## Release History
-_(Nothing yet)_
+## 发布历史
+暂无
 
 ## License
 Copyright (c) 2014 VIP FEG. Licensed under the MIT license.
