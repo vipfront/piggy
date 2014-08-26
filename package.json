@@ -1,5 +1,5 @@
 {
-  "name": "piggy",
+  "name": "piggy-cli",
   "version": "1.0.0",
   "main": "lib/main.js",
   "description": "Tools for Piggy Applications",
