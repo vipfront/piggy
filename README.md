@@ -3,7 +3,7 @@
 Piggy应用程序CLI工具，底层使用[Yeoman](http://yeoman.io)、[Grunt](http://gruntjs.com)及[generator-piggy](https://github.com/vipfront/generator-piggy)
 
 ## 从这里开始
-执行`npm install piggy -g`安装该工具
+执行`npm install piggy-cli -g`安装该工具
 
 然后，你可以使用下面的命令初始化一个应用程序:
 
