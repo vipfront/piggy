@@ -8,6 +8,7 @@ Piggy应用程序CLI工具，底层使用[Yeoman](http://yeoman.io)、[Grunt](ht
 然后，你可以使用下面的命令初始化一个应用程序:
 
 ```bash
+$ mkdir piggy_test && cd piggy_test
 $ piggy
 ```
 
@@ -17,7 +18,7 @@ $ piggy
 $ piggy module
 ```
 
-也可以使用下面的命令初始化一个也没:
+也可以使用下面的命令初始化一个页面:
 
 ```bash
 $ piggy page
